@@ -27,16 +27,6 @@ const puntosHTML = document.querySelectorAll('small');
 
 deck = crearDeck(tipos,especiales);
 
-
-
-
-// pedirCarta();
-
-
-
-
-
-
 // Eventos
 btnPedir.addEventListener('click', () => {
 
